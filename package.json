@@ -1,6 +1,6 @@
 {
   "name": "@gecugamo/web-component-stencil",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Stencil Component Starter",
   "main": "dist/components/web-component-stencil.js",
   "module": "dist/components/web-component-stencil.js",
